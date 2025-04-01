@@ -25,3 +25,5 @@ Navigate to the project directory:
  Install the required Python packages:
    ```sh
    pip install pandas
+![image](https://github.com/user-attachments/assets/b606d9f6-b099-4487-afe4-17bddc345c4e)
+
