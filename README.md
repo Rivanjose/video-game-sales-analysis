@@ -15,6 +15,6 @@ This project analyzes video game sales data using Python and Pandas. It extracts
 - Pandas library
 
 ### Installing
-1. Clone this repository to your local machine:
+1. Clone repository to local machine:
    ```sh
    git clone https://github.com/Rivanjose/video-game-sales-analysis.git
