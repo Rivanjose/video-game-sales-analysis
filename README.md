@@ -28,7 +28,7 @@ Navigate to the project directory:
 
 ![Description](https://raw.githubusercontent.com/Rivanjose/Video-game-sales-analysis/main/!image.png)
 
-## **Running the Tests**
+ **Running the Tests**
 To verify that the script functions correctly, follow these steps:
 1. Ensure you have a sample dataset (CSV file) containing video game sales data.
 2. Modify the script to read from the dataset if necessary.
