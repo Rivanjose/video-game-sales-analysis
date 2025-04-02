@@ -26,7 +26,7 @@ Navigate to the project directory:
    ```sh
    pip install pandas
 
-Running the Tests
+### Running the Tests
 =================
 To verify that the script functions correctly, follow these steps:
 1. Ensure you have a sample dataset (CSV file) containing video game sales data.
@@ -39,6 +39,16 @@ To verify that the script functions correctly, follow these steps:
    - The dataset is loaded correctly.
    - The filtering criteria (games released after 2005) work as expected.
    - No errors occur during execution.
+### Break down into end-to-end tests
+
+These tests confirm that the functions for data extraction, processing, and filtering operate as intended.
+
+Examples of Tests:
+1. Open a CSV file containing sales information for video games.
+2. After 2005, filter games were released.
+3. Determine the overall sales for every area.
+4. Present a prepared output of the results.
+
 
 ## Deployment
 To use this script in a production environment:
