@@ -39,6 +39,23 @@ To verify that the script functions correctly, follow these steps:
    - The dataset is loaded correctly.
    - The filtering criteria (games released after 2005) work as expected.
    - No errors occur during execution.
+   - 
+### Explaining each steps:
+
+1.import pandas as pd
+  import pymysql
+  from sqlalchemy import create_engine
+  import matplotlib.pyplot as plt
+  import seaborn as sns
+
+DataFrames, or structured data, can be handled and analyzed using pandas.
+A library called pymysql is used to link Python to a MySQL database.
+Creating a connection to the MySQL database is done with sqlalchemy.create_engine.
+Seaborn and matplotlib.pyplot are used to visualize data.
+
+2. 
+
+
 ### Break down into end-to-end tests
 
 These tests confirm that the functions for data extraction, processing, and filtering operate as intended.
