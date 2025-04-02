@@ -43,9 +43,13 @@ To verify that the script functions correctly, follow these steps:
 ### Explaining each steps:
 
 1.import pandas as pd
+
   import pymysql
+  
   from sqlalchemy import create_engine
+  
   import matplotlib.pyplot as plt
+  
   import seaborn as sns
 
 DataFrames, or structured data, can be handled and analyzed using pandas.
