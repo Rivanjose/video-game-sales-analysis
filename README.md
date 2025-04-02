@@ -6,7 +6,7 @@ Python project analyzing video game sales data.
 **Video Game Sales Analysis Using Python**
 
 ## Short Description
-This project analyzes video game sales data using Python and Pandas. It extracts and processes sales records for games released after 2005.
+This project analyzes video game sales data using Python and Pandas. It extracts and processes sales records for games released before and after 2005.
 
 ## Getting Started
 
